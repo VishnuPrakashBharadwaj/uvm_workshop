@@ -1,0 +1,4 @@
+${VK_HOME}/dut/ahb_enum_types_pkg.sv
+${VK_HOME}/dut/pcounter.sv
+${VK_HOME}/dut/pcounter_ahb_wrapper.sv
+

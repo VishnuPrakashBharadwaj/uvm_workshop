@@ -1,0 +1,13 @@
++incdir+${DUT_DIR}
++incdir+${VK_VERIF_DIR}/env/src/
++incdir+${VK_VERIF_DIR}/testbench/
++incdir+${VK_VERIF_DIR}/test_lib/src/
++incdir+${VK_VERIF_DIR}/ahb_master_basic_sequence_lib/src/
++incdir+${VK_VERIF_DIR}/virtual_sequence_lib/src/
+${DUT_DIR}/ahb_enum_types_pkg.sv
+${VK_VERIF_DIR}/testbench/ahb_config_pcounter_defines.sv
+${VK_VERIF_DIR}/env/src/ahb_config_pcounter_env_pkg.sv
+${VK_VERIF_DIR}/ahb_master_basic_sequence_lib/src/ahb_master_basic_sequence_pkg.sv
+${VK_VERIF_DIR}/virtual_sequence_lib/src/ahb_config_pcounter_virtual_sequence_pkg.sv
+${VK_VERIF_DIR}/test_lib/src/ahb_config_pcounter_test_pkg.sv
+${VK_VERIF_DIR}/testbench/ahb_config_pcounter_testbench_top.sv
